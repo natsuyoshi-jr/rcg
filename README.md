@@ -4,11 +4,11 @@ I think that this script will help to notice error when you monitor log.
 
 # Installation
 ```
-git clone -b master https://github.com/natsuyoshi-jr/rcg.git
+git clone -b master https://github.com/masaharu-suizu/rcg.git
 ```
 
 # Requirement
-Perl v5.8 more
+Perl v5.8+
 
 
 # Usage
